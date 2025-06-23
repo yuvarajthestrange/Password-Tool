@@ -110,7 +110,7 @@ class WordlistGenerator:
         # Apply all possible substitutions at once
         for k in range(1, min(max_subs, len(leetable_positions)) + 1):
             for positions in itertools.combinations(leetable_positions, k):
-                for combo in itertools.product(*[self.L33T_MAP.get(char_list[pos].lower(), [char_list[pos]]) for pos in positions):
+                for combo in itertools.product(*[self.L33T_MAP.get(char_list[pos].lower(), [char_list[pos]]) for pos in positions]):
                     new_word = char_list[:]
                     for idx, char in zip(positions, combo):
                         new_word[idx] = char
@@ -130,7 +130,7 @@ class WordlistGenerator:
         for i in range(0, 100):
             numbers.append(str(i).zfill(2))
         
-        for i in [111, 123, 234, 345, 456, 567, 678, 789, 000, 999, 007, 100, 200]:
+        for i in [111, 123, 234, 345, 456, 567, 678, 789, 300, 999, 799, 100, 200]:
             numbers.append(str(i))
         
         return list(set(numbers))
