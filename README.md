@@ -110,7 +110,7 @@ python password_tool.py
 
 ### 🔐 Password Analysis Tab
 
-![Password Analysis](https://via.placeholder.com/800x500?text=Password+Analysis+Interface)
+![Password Analysis](https://github.com/yuvarajthestrange/Password-Tool/blob/main/password-analysis.png)
 
 * Enter password for analysis.
 * Select strength analysis parameters.
