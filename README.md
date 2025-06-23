@@ -121,7 +121,7 @@ python password_tool.py
 
 ### 📜 Wordlist Generator Tab
 
-![Wordlist Generator](https://via.placeholder.com/800x500?text=Wordlist+Generator+Interface)
+![Wordlist Generator](https://github.com/yuvarajthestrange/Password-Tool/blob/main/wordlist-generator.png)
 
 * Input personal information.
 * Configure leetspeak level (0–3), inclusion of common passwords, and keyboard walks.
