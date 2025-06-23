@@ -199,11 +199,6 @@ To get started:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgements
 
@@ -219,14 +214,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 📌 Repository Badge (optional)
-
-If you’d like, add a status badge:
-
-```markdown
-![GitHub stars](https://img.shields.io/github/stars/yuvarajthestrange/password-toolkit-pro?style=social)
-```
-
----
 
 
