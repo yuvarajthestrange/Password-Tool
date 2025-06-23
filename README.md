@@ -58,8 +58,8 @@
 ### 📥 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/password-toolkit-pro.git
-cd password-toolkit-pro
+git clone https://github.com/yuvarajthestrange/Password-Tool.git
+cd Password-Tool
 pip install -r requirements.txt
 ```
 
